@@ -5,6 +5,3 @@
 <a href="https://github.com/oleg-glingeanu/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbanerjee26" />
 </a>
-## My GitHub Stats 📊
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleg-glingeanu&repo=FirstLinearRegressionProject)](https://github.com/oleg-glingeanu/FirstLinearRegressionProject)
-
