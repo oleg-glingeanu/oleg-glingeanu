@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleg</h1>
-<h3 align="center">Constantly expanding my skills and pushing the boundaries of what's possible with Rust, React, C++, and more.</h3>
+<h3 align="center">Passionate Learner and Developer</h3>
 
 - 🔭 I’m currently working on [my 4th year project !](https://antiqueauction.vercel.app/)
 
